@@ -1,4 +1,6 @@
 
+## Resources
+This post on [dockerizing an Angular App was helpful](https://mherman.org/blog/dockerizing-an-angular-app/)  
 
 ## Build Docker Image
 ```
