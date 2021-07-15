@@ -4,7 +4,7 @@ This post on [dockerizing an Angular App was helpful](https://mherman.org/blog/d
 
 ## Build Docker Image
 ```
-docker build --tag mb/docker-angular .
+docker build --tag mb/docker-angular . --target dev
 or
 docker build --tag mb/docker-angular-test . --target test
 ```
