@@ -1,4 +1,6 @@
-## Resources
+## Dockerizing and Angular App
+
+This repo shows how to create a Dockerfile for an Angular application. The instructions below explain how to create a Docker image and run it in a container.
 
 This post on [dockerizing an Angular App was helpful](https://mherman.org/blog/dockerizing-an-angular-app/)
 
